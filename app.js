@@ -1,3 +1,6 @@
+$(function (){
+
+
 $(document).ready(function () {
     
         var data = {
@@ -71,3 +74,4 @@ $(document).ready(function () {
         addAttendee();
         syncPurchaseButton();
     });
+    })
